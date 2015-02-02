@@ -1,0 +1,7 @@
+# Alligator data from Delany and Moore, also reprinted in Agresti
+
+import gator ../data/alligator.dat " "
+weight gator count
+print gator 10
+table gator food
+logreg gator food = lake size

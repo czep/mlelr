@@ -1,0 +1,7 @@
+# Ingots data from Cox and Snell
+
+import ingots ../data/ingots.dat "\t"
+weight ingots n
+print ingots 0
+table ingots r
+logreg ingots r = direct.heat direct.soak

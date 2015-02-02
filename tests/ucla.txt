@@ -1,0 +1,5 @@
+
+import ucla ../data/ucla.dat \t
+print ucla 20
+option params dummy
+logreg ucla admit = direct.gre direct.gpa rank
