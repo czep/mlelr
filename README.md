@@ -6,5 +6,3 @@ available in the pdf file:
 http://czep.net/stat/mlelr_tour.pdf
 
 More details are available at:  http://czep.net/stat/mlelr.html
-
-and also at: https://github.com/czep/mlelr
